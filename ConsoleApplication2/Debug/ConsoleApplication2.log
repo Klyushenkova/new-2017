@@ -1,0 +1,12 @@
+﻿Сборка начата 06.04.2017 22:07:14.
+     1>Проект "C:\Users\user\Desktop\ConsoleApplication2\ConsoleApplication2.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ConsoleApplication2.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ConsoleApplication2.cpp
+         ConsoleApplication2.cpp
+     1>c:\users\user\desktop\consoleapplication2\consoleapplication2.cpp(40): error C2676: бинарный "[": "Array" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+     1>c:\users\user\desktop\consoleapplication2\consoleapplication2.cpp(48): error C2676: бинарный "[": "Array" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
+     1>Построение проекта "C:\Users\user\Desktop\ConsoleApplication2\ConsoleApplication2.vcxproj" завершено (целевые объекты Build) с ошибкой.
+
+Сбой построения.
+
+Затраченное время: 00:00:01.17
